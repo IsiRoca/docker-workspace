@@ -2,4 +2,4 @@
 
 [Workspace Docker Hub Repository](https://hub.docker.com/r/dockerdevenv/workspace/)
 
-[DockerDevEnv Github Repository](https://github.com/isiroca/dockerdevenv).
+[DockerDevEnv Github Repository](https://github.com/isiroca/docker-dev-env).
